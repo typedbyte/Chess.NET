@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="Chess.View.Piece.WhitePawn"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--By en:User:Cburnett - Own work  This W3C-unspecified vector image was created with Inkscape ., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1499810 -->
+    <Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+        <Canvas Name="svg4" Width="45" Height="45">
+            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path2" Fill="#FFFFFFFF" StrokeThickness="1.5" Stroke="#FF000000" StrokeMiterLimit="4" StrokeLineJoin="Miter" StrokeStartLineCap="Round" StrokeEndLineCap="Round">
+                <Path.Data>
+                    <PathGeometry Figures="m 22.5 9 c -2.21 0 -4 1.79 -4 4 0 0.89 0.29 1.71 0.78 2.38 C 17.33 16.5 16 18.59 16 21 c 0 2.03 0.94 3.84 2.41 5.03 C 15.41 27.09 11 31.58 11 39.5 H 34 C 34 31.58 29.59 27.09 26.59 26.03 28.06 24.84 29 23.03 29 21 29 18.59 27.67 16.5 25.72 15.38 26.21 14.71 26.5 13.89 26.5 13 c 0 -2.21 -1.79 -4 -4 -4 z" FillRule="NonZero"/>
+                </Path.Data>
+            </Path>
+        </Canvas>
+    </Viewbox>
+</UserControl>

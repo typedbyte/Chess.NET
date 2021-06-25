@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="Chess.View.Icon.NewIcon"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+        <Canvas Name="Layer_1" Width="122.879" Height="122.879">
+            <Canvas Name="g4">
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path2" Fill="#000000">
+                    <Path.Data>
+                        <PathGeometry Figures="M104.885 17.995c23.993 23.994 23.993 62.896 0 86.89 c-23.994 23.993-62.896 23.993-86.89 0c-23.993-23.994-23.993-62.896 0-86.89C41.989-5.998 80.891-5.998 104.885 17.995 L104.885 17.995z M93.607 57.949c1.928 0 3.49 1.563 3.49 3.49c0 1.928-1.563 3.49-3.49 3.49H64.93v28.678 c0 1.928-1.563 3.49-3.49 3.49c-1.927 0-3.489-1.563-3.489-3.49V64.93H29.272c-1.928 0-3.491-1.563-3.491-3.49 c0-1.927 1.563-3.49 3.491-3.49H57.95V29.271c0-1.927 1.563-3.49 3.489-3.49c1.928 0 3.49 1.563 3.49 3.49v28.678H93.607 L93.607 57.949z" FillRule="EvenOdd"/>
+                    </Path.Data>
+                </Path>
+            </Canvas>
+        </Canvas>
+    </Viewbox>
+</UserControl>
