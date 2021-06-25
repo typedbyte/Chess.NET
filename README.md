@@ -4,7 +4,7 @@
 
 # Chess.NET
 
-`Chess.NET` is a local two-player chess game, written in WPF/C#. It aims to provide a clean architecture and design according to the Model-View-ViewModel (MVVM) architectural pattern. Notable features are:
+`Chess.NET` is a local two-player chess game, written in C#/WPF. It aims to provide a clean architecture and design according to the Model-View-ViewModel (MVVM) architectural pattern. Notable features are:
 
 * Supports all standard rules of a chess game, including castling, en passant and promotion.
 * Supports hints for chess piece movements, allowing only valid movements to be selected.
