@@ -7,7 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chess.Model", "Chess.Model\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chess.ViewModel", "Chess.ViewModel\Chess.ViewModel.csproj", "{594D5E8D-B36D-404A-B0E9-E04FA7C731AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.View", "Chess.View\Chess.View.csproj", "{F68AFA2A-73A1-43BA-933F-D56E2687BBF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chess.View", "Chess.View\Chess.View.csproj", "{F68AFA2A-73A1-43BA-933F-D56E2687BBF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DADDCF69-8A37-44AC-B4CA-4D7BE39BF80C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		screenshot.png = screenshot.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

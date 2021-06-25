@@ -11,7 +11,7 @@
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
         Background="DarkGray" Icon="/Icon/appIcon.png"
-        Title="Chess#" Height="700" Width="700">
+        Title="Chess.NET" Height="700" Width="700">
     <Window.InputBindings>
         <KeyBinding Key="N" Modifiers="Ctrl" Command="{Binding NewCommand}" />
         <KeyBinding Key="Z" Modifiers="Ctrl" Command="{Binding UndoCommand}" />
