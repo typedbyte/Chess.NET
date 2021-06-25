@@ -10,5 +10,6 @@
 * Supports hints for chess piece movements, allowing only valid movements to be selected.
 * Supports a wide range of animations using the features of WPF.
 * Supports window resizing for arbitrary display resolutions.
+* Provides a fully immutable implementation of the chess game model.
 * Provides an undo command to restore previous chess game states.
 * Provides a full code documentation.
