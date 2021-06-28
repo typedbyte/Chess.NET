@@ -16,7 +16,7 @@ namespace Chess.Model.Rule
     public interface IRulebook
     {
         /// <summary>
-        /// Creates a new chess game according to the rulebook.
+        /// Creates a new chess game, according to the rulebook.
         /// </summary>
         /// <returns>The newly created chess game.</returns>
         ChessGame CreateGame();
